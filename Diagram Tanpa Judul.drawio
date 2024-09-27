@@ -191,9 +191,10 @@
         <mxCell id="m37Qg1CDzB-L9U7_lDDk-128" value="J,K" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2139" y="12" width="38" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-129" value="Mahasiswa &amp; Dosen" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0.01;" parent="1" source="m37Qg1CDzB-L9U7_lDDk-114" target="m37Qg1CDzB-L9U7_lDDk-115" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="m37Qg1CDzB-L9U7_lDDk-129" value="Membuag sampah" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0.01;" parent="1" source="m37Qg1CDzB-L9U7_lDDk-114" target="m37Qg1CDzB-L9U7_lDDk-115" edge="1">
+          <mxGeometry x="0.0145" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m37Qg1CDzB-L9U7_lDDk-130" value="Lokasi 1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0.01;exitDx=0;exitDy=0;" parent="1" source="m37Qg1CDzB-L9U7_lDDk-115" target="m37Qg1CDzB-L9U7_lDDk-116" edge="1">
