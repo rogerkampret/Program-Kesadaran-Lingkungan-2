@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Halaman-1" id="vI17TSIT231bG5ewFWEX">
-    <mxGraphModel dx="2074" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,40 +157,31 @@
         <mxCell id="m37Qg1CDzB-L9U7_lDDk-117" value="Zat Kimia" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2082" y="213.5" width="153" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-118" value="Sensor" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="m37Qg1CDzB-L9U7_lDDk-118" value="Daur Ulang" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1515.5" y="317" width="129" height="34" as="geometry" />
         </mxCell>
         <mxCell id="m37Qg1CDzB-L9U7_lDDk-119" value="Sensor" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2094" y="317.5" width="129" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-120" value="Tanngapi jenis" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="m37Qg1CDzB-L9U7_lDDk-120" value="Daur Ulang" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1494.5" y="420" width="172" height="172" as="geometry" />
         </mxCell>
         <mxCell id="m37Qg1CDzB-L9U7_lDDk-121" value="Tanggapi laporan" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2073" y="420.5" width="172" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-122" value="Telah diterima" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="m37Qg1CDzB-L9U7_lDDk-122" value="Menjadi pupuk/pakan hewan" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1475" y="661" width="210" height="34" as="geometry" />
         </mxCell>
         <mxCell id="m37Qg1CDzB-L9U7_lDDk-123" value="Telah diterima" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2053" y="660.5" width="210" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-124" value="Pemilahan selesai" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="m37Qg1CDzB-L9U7_lDDk-124" value="Jual di Marketplace" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1503.5" y="764" width="154" height="34" as="geometry" />
         </mxCell>
         <mxCell id="m37Qg1CDzB-L9U7_lDDk-125" value="Pemilahan selesai" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2081" y="764.5" width="154" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-126" value="G1,G2" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1944" y="12" width="59" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-127" value="H,I" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2053" y="12" width="36" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-128" value="J,K" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2139" y="12" width="38" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="m37Qg1CDzB-L9U7_lDDk-129" value="Membuag sampah" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0.01;" parent="1" source="m37Qg1CDzB-L9U7_lDDk-114" target="m37Qg1CDzB-L9U7_lDDk-115" edge="1">
+        <mxCell id="m37Qg1CDzB-L9U7_lDDk-129" value="Sampah di kumpulkan" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0.01;" parent="1" source="m37Qg1CDzB-L9U7_lDDk-114" target="m37Qg1CDzB-L9U7_lDDk-115" edge="1">
           <mxGeometry x="0.0145" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
@@ -361,19 +352,19 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_lrPoYCfZCR5oAcwP7v5-48" value="Sensor" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="_lrPoYCfZCR5oAcwP7v5-48" value="Daur Ulang" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1804.5" y="326" width="129" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="_lrPoYCfZCR5oAcwP7v5-49" value="Tanggapi laporan" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="_lrPoYCfZCR5oAcwP7v5-49" value="Kerajinan" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1783.5" y="429" width="172" height="172" as="geometry" />
         </mxCell>
-        <mxCell id="_lrPoYCfZCR5oAcwP7v5-50" value="Telah diterima" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="_lrPoYCfZCR5oAcwP7v5-50" value="Wujud sudah jadi" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1763.5" y="669" width="210" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="_lrPoYCfZCR5oAcwP7v5-51" value="Pemilahan selesai" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="_lrPoYCfZCR5oAcwP7v5-51" value="Jual di marketplace" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1791.5" y="773" width="154" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="_lrPoYCfZCR5oAcwP7v5-52" value="Detail laporan" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;" parent="1" target="_lrPoYCfZCR5oAcwP7v5-48" edge="1">
+        <mxCell id="_lrPoYCfZCR5oAcwP7v5-52" value="Bisa/tidak" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;" parent="1" target="_lrPoYCfZCR5oAcwP7v5-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1869.5" y="256.5" as="sourcePoint" />
