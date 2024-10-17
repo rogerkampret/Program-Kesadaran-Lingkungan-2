@@ -760,6 +760,9 @@
         <mxCell id="909iYQt30kxnzGmRWlIh-242" value="Data Statistik Sampah" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1722" y="-914" width="262" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="909iYQt30kxnzGmRWlIh-243" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="-1592" width="2235" height="1080" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
