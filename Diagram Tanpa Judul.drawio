@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Halaman-1" id="vI17TSIT231bG5ewFWEX">
-    <mxGraphModel dx="6936" dy="3352" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -521,6 +521,9 @@
           <mxGeometry x="-0.1806" y="2" relative="1" as="geometry">
             <mxPoint x="-55" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="909iYQt30kxnzGmRWlIh-99" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1408" y="685" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
