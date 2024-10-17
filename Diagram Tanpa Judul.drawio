@@ -1,9 +1,31 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Halaman-1" id="vI17TSIT231bG5ewFWEX">
-    <mxGraphModel dx="5297" dy="3709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6936" dy="4552" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="909iYQt30kxnzGmRWlIh-258" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="909iYQt30kxnzGmRWlIh-233">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-339" y="111" as="sourcePoint" />
+            <mxPoint x="1298" y="-811" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-94" y="490" />
+              <mxPoint x="282" y="386" />
+              <mxPoint x="652" y="182" />
+              <mxPoint x="790" y="-354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="909iYQt30kxnzGmRWlIh-259" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Hasil di terima&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="909iYQt30kxnzGmRWlIh-258">
+          <mxGeometry x="-0.5735" y="2" relative="1" as="geometry">
+            <mxPoint x="-253" y="174" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="909iYQt30kxnzGmRWlIh-260" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Admin melakukan chek&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="909iYQt30kxnzGmRWlIh-258">
+          <mxGeometry x="0.4246" y="1" relative="1" as="geometry">
+            <mxPoint x="274" y="-279" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q4HFe4SoSKMmxGWvJcqE-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0.01;exitDx=0;exitDy=0;" parent="1" source="q4HFe4SoSKMmxGWvJcqE-54" target="q4HFe4SoSKMmxGWvJcqE-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -772,6 +794,12 @@
         </mxCell>
         <mxCell id="909iYQt30kxnzGmRWlIh-254" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Username&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Email&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NumberPhone&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Location&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Point Total&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1694" y="649" width="151" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="909iYQt30kxnzGmRWlIh-256" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#3E8782;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1522" width="1920" height="715" as="geometry" />
+        </mxCell>
+        <mxCell id="909iYQt30kxnzGmRWlIh-257" value="User" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="789" y="-290" width="1308" height="1548" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
