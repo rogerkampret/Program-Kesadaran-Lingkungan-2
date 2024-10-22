@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Halaman-1" id="vI17TSIT231bG5ewFWEX">
-    <mxGraphModel dx="6448" dy="3698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="2372" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,6 +754,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="909iYQt30kxnzGmRWlIh-232" target="K2Veo0YiwgUTMBrSsMdn-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="909iYQt30kxnzGmRWlIh-232" value="Data Monitoring Sampah" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="783" y="-911" width="262" height="90" as="geometry" />
         </mxCell>
@@ -794,6 +797,39 @@
         </mxCell>
         <mxCell id="909iYQt30kxnzGmRWlIh-256" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#3E8782;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="338" y="1522" width="1920" height="715" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-48" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Admin melakukan chek&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420.1353092560821" y="-865.9966828873418" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2Veo0YiwgUTMBrSsMdn-51" target="K2Veo0YiwgUTMBrSsMdn-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-51" value="ActivityLog" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-978" width="73" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2Veo0YiwgUTMBrSsMdn-54" target="K2Veo0YiwgUTMBrSsMdn-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-54" value="CCTV" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-1054" width="73" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2Veo0YiwgUTMBrSsMdn-57" target="K2Veo0YiwgUTMBrSsMdn-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-57" value="Proses Report" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-293" y="-875" width="73" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2Veo0YiwgUTMBrSsMdn-63" target="K2Veo0YiwgUTMBrSsMdn-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-63" value="Hasil Report" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-794" width="73" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K2Veo0YiwgUTMBrSsMdn-50" target="K2Veo0YiwgUTMBrSsMdn-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Veo0YiwgUTMBrSsMdn-50" value="Menu Monitoring" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-163" y="-895" width="139" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
