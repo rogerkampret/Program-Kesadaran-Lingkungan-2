@@ -804,9 +804,6 @@
         <mxCell id="909iYQt30kxnzGmRWlIh-254" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Username&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Email&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NumberPhone&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Location&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Point Total&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1694" y="649" width="151" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="909iYQt30kxnzGmRWlIh-256" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#3E8782;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="338" y="1522" width="1920" height="715" as="geometry" />
-        </mxCell>
         <mxCell id="K2Veo0YiwgUTMBrSsMdn-48" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Admin melakukan chek&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="420.1353092560821" y="-865.9966828873418" as="geometry" />
         </mxCell>
