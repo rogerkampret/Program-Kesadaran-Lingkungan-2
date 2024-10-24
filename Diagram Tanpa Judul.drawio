@@ -899,7 +899,7 @@
         <mxCell id="6SsgNr4gld4DxHeNQquR-44" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1539" y="-1704" width="74.5" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="6SsgNr4gld4DxHeNQquR-45" value="Data Monitoring Sampah" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="6SsgNr4gld4DxHeNQquR-45" value="Log activity admins" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="291.5" y="-832" width="262" height="90" as="geometry" />
         </mxCell>
       </root>
